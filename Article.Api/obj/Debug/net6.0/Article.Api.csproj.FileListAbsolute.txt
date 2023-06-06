@@ -30,3 +30,35 @@ D:\Learn Here\2023\.Net Core Cloned\CodeMazeGuides\aspnetcore-webapi\ApiGatewayW
 D:\Learn Here\2023\.Net Core Cloned\CodeMazeGuides\aspnetcore-webapi\ApiGatewayWithOcelot\Article.Api\obj\Debug\net6.0\Article.Api.pdb
 D:\Learn Here\2023\.Net Core Cloned\CodeMazeGuides\aspnetcore-webapi\ApiGatewayWithOcelot\Article.Api\obj\Debug\net6.0\Article.Api.genruntimeconfig.cache
 D:\Learn Here\2023\.Net Core Cloned\CodeMazeGuides\aspnetcore-webapi\ApiGatewayWithOcelot\Article.Api\obj\Debug\net6.0\ref\Article.Api.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\appsettings.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Article.Api.exe
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Article.Api.deps.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Article.Api.runtimeconfig.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Article.Api.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Article.Api.pdb
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.csproj.AssemblyReference.cache
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.AssemblyInfoInputs.cache
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.AssemblyInfo.cs
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.csproj.CoreCompileInputs.cache
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets\msbuild.Article.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Article.Api.props
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Article.Api.props
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Article.Api.props
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\scopedcss\bundle\Article.Api.styles.css
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.csproj.CopyComplete
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\refint\Article.Api.dll
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.pdb
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\Article.Api.genruntimeconfig.cache
+E:\Samples\GitHub\ApiGatewayOcelot\Article.Api\obj\Debug\net6.0\ref\Article.Api.dll
